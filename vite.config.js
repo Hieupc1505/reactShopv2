@@ -22,5 +22,6 @@ export default defineConfig({
             },
         },
     },
+    base: "https://github.com/Hieupc1505/reactShopv2",
     // some other configuration
 });

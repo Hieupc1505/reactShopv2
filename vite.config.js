@@ -22,6 +22,6 @@ export default defineConfig({
             },
         },
     },
-    base: "/vite-deploy/",
+    base: "/reactShopv2/",
     // some other configuration
 });
